@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aple/Documents/VSCode_GitHub/MLOps%20Bootcamp/Data%20Science%20Project/datascienceproject/mlruns/0/3a9606275ead40ab861c8ede34f94ec8/artifacts
+end_time: 1751569487009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a9606275ead40ab861c8ede34f94ec8
+run_name: brawny-colt-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751569482867
+status: 3
+tags: []
+user_id: aple
