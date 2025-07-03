@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aple/Documents/VSCode_GitHub/MLOps%20Bootcamp/Data%20Science%20Project/datascienceproject/mlruns/0/90b801edecc6426987947421a677bd50/artifacts
+end_time: 1751569707812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90b801edecc6426987947421a677bd50
+run_name: rambunctious-ant-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751569703864
+status: 3
+tags: []
+user_id: aple

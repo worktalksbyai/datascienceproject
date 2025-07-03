@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aple/Documents/VSCode_GitHub/MLOps%20Bootcamp/Data%20Science%20Project/datascienceproject/mlruns/0/1b59d9350b384e699e7b6156103ba2a1/artifacts
+end_time: 1751571078463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b59d9350b384e699e7b6156103ba2a1
+run_name: dazzling-cat-199
+run_uuid: 1b59d9350b384e699e7b6156103ba2a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751571074042
+status: 4
+tags: []
+user_id: aple

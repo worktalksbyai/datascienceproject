@@ -1,0 +1,10 @@
+artifact_location: file:///Users/aple/Documents/VSCode_GitHub/MLOps%20Bootcamp/Data%20Science%20Project/datascienceproject/mlruns/0/models/m-e3202de2b9b0416597053667e2911d76/artifacts
+creation_timestamp: 1751569703918
+experiment_id: '0'
+last_updated_timestamp: 1751569707806
+model_id: m-e3202de2b9b0416597053667e2911d76
+model_type: null
+name: model
+source_run_id: 90b801edecc6426987947421a677bd50
+status: 2
+status_message: null
